@@ -3,8 +3,8 @@
 
 
 
-# Project Name
-This task manager is built using Next.js and Prisma. It allows users to create, update, and delete tasks, as well as track their progress. The project utilizes the power of Next.js for server-side rendering and Prisma as the database ORM. Additionally, it uses Clerk Auth for authentication and MongoDB for storing data with a schema defined using Prisma. With its intuitive user interface and seamless integration with modern web technologies, this task manager is designed to enhance productivity and streamline task management for individuals and teams.
+# TaskMaster
+This is a task manager is built using Next.js and Prisma. It allows users to create, update, and delete tasks, as well as track their progress. The project utilizes the power of Next.js for server-side rendering and Prisma as the database ORM. Additionally, it uses Clerk Auth for authentication and MongoDB for storing data with a schema defined using Prisma. With its intuitive user interface and seamless integration with modern web technologies, this task manager is designed to enhance productivity and streamline task management for individuals and teams.
 
 ## Team members
 1. [Akhil B Xavier](https://github.com/winter-x64)
